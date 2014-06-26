@@ -1,0 +1,52 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Vivek's Thoughts
+tagline:	'blog'
+description:	'The other side'
+url:		patilvthoughts.github.io
+
+author:
+  name:		'Vivek Patil'
+  url:		patilv.github.io
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/vivekhpatil
+    desc:	Twitter
+
+  - icon:	github
+    url:	https://github.com/patilv
+    desc:	Github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+patilv
+    desc:	google+
+
+  - icon:	feed
+    url:	patilvthoughts.github.io/atom.xml
+    desc:	feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Vivek Patil
+  url:		patilv.github.io
+  type_title:	
+  type_url:	
